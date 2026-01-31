@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.26.8](https://github.com/commenthol/date-holidays/compare/3.26.7...3.26.8) (2026-01-31)
+
+- fix(AU): Corrects ANZAC Day for ACT. [08b1c173](https://github.com/commenthol/date-holidays/commit/08b1c17356a1a8a7c9c20ff107ac9b81f6697bd2)
+- fix(GP MQ): Fix Victor Schoelcher Day is not public holiday [2b2ea2be](https://github.com/commenthol/date-holidays/commit/2b2ea2be976e981ec44594b2231cae901fef8de6)
+- fix(PH,#572): correct EDSA Revolution Anniversary holiday type and notes [3e0809b6](https://github.com/commenthol/date-holidays/commit/3e0809b6749f29ff4482570d03a7437ece30485c)
+
 ## [3.26.7](https://github.com/commenthol/date-holidays/compare/3.26.6...3.26.7) (2026-01-25)
 
 - fix(SK): update License attributions [a840072a](https://github.com/commenthol/date-holidays/commit/a840072ab8cabf6ce5ca1c80b88da49b7961d010)
