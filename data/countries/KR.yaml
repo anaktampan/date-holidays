@@ -33,9 +33,18 @@ holidays:
         name:
           en: Memorial Day
           ko: 현충일
+      # Constitution Day was observance until 2025, became public holiday from 2026
       07-17:
-        _name: Constitution Day
+        name:
+          en: Constitution Day
+          ko: 제헌절
         type: observance
+        active:
+          - to: 2025
+      07-17 since 2026:
+        name:
+          en: Constitution Day
+          ko: 제헌절
       08-15:
         name:
           en: Liberation Day
