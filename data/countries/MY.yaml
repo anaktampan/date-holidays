@@ -67,20 +67,26 @@ holidays:
         _name: 17 Ramadan
         disable:
           - "2022-04-18"
+          - "2026-03-06"
         enable:
           - "2022-04-19"
+          - "2026-03-07"
       1 Shawwal:
         _name: 1 Shawwal
         disable:
           - "2022-05-02"
+          - "2026-03-20"
         enable:
           - "2022-05-03"
+          - "2026-03-21"
       2 Shawwal:
         _name: 1 Shawwal
         disable:
           - "2022-05-03"
+          - "2026-03-21"
         enable:
           - "2022-05-04"
+          - "2026-03-22"
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
         disable:
@@ -89,6 +95,10 @@ holidays:
           - "2022-07-10"
       1 Muharram:
         _name: 1 Muharram
+        disable:
+          - "2026-06-16"
+        enable:
+          - "2026-06-17"
       12 Rabi al-awwal:
         _name: 12 Rabi al-awwal
         disable:
@@ -162,7 +172,10 @@ holidays:
         _name: Deepavali
       "2025-10-20":
         _name: Deepavali
+      "2026-11-08":
+        _name: Deepavali
       "2026-11-09":
+        substitute: true
         _name: Deepavali
       "2027-10-28":
         _name: Deepavali
