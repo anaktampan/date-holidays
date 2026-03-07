@@ -1,5 +1,9 @@
 # Changelog
 
+## [3.26.9](https://github.com/commenthol/date-holidays/compare/3.26.8...3.26.9) (2026-03-07)
+
+- fix(MY,SG): Update holiday dates and details for 2026 [4cdfca64](https://github.com/commenthol/date-holidays/commit/4cdfca642bad58ddd8712697def6244e29fc13b0)
+
 ## [3.26.8](https://github.com/commenthol/date-holidays/compare/3.26.7...3.26.8) (2026-01-31)
 
 - fix(AU): Corrects ANZAC Day for ACT. [08b1c173](https://github.com/commenthol/date-holidays/commit/08b1c17356a1a8a7c9c20ff107ac9b81f6697bd2)
