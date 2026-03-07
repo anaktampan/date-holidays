@@ -61,11 +61,13 @@ holidays:
           - "2023-04-21"
           - "2024-04-09"
           - "2025-03-30"
+          - "2026-03-20"
         enable:
           - "2022-05-03"
           - "2023-04-22"
           - "2024-04-10"
           - "2025-03-31"
+          - "2026-03-21"
       10 Dhu al-Hijjah:
         _name: 10 Dhu al-Hijjah
         name:
@@ -208,7 +210,10 @@ holidays:
         _name: Deepavali
       "2025-10-20":
         _name: Deepavali
+      "2026-11-08":
+        _name: Deepavali
       "2026-11-09":
+        substitute: true
         _name: Deepavali
       "2027-10-28":
         _name: Deepavali
