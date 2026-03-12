@@ -469,8 +469,7 @@ holidays:
             substitute: true
             name:
               en: January 2nd
-          easter 1:
-            _name: easter 1
+          easter 1: false
           1st monday in August:
             name:
               en: Summer bank holiday
