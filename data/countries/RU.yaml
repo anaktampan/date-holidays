@@ -49,7 +49,7 @@ holidays:
         name:
           ru: День защитника Отечества
           en: Defender of the Fatherland Day
-      03-08:
+      03-08 and if sunday then next monday:
         _name: 03-08
       05-01:
         name:

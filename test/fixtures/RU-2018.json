@@ -50,7 +50,7 @@
     "end": "2018-03-08T21:00:00.000Z",
     "name": "Международный женский день",
     "type": "public",
-    "rule": "03-08",
+    "rule": "03-08 and if sunday then next monday",
     "_weekday": "Thu"
   },
   {
