@@ -1,5 +1,6 @@
 holidays:
   # @source https://www.gov.uk/bank-holidays
+  # @attrib https://en.wikipedia.org/wiki/Public_holidays_in_the_United_Kingdom
   GB:
     names:
       en: United Kingdom
