@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.27.0](https://github.com/commenthol/date-holidays/compare/3.26.10...3.27.0) (2026-03-15)
+
+- fix(US-FL,#576): Add Commemoration of America's 250th Birthday holiday for Florida in 2026 [5638e72f](https://github.com/commenthol/date-holidays/commit/5638e72f355d0ca6dcc3282e7af7298297eac41b)
+- test(KR): fixtures [c156bbd8](https://github.com/commenthol/date-holidays/commit/c156bbd8199562933fc41b565ec9de867624a054)
+- feat(KR): Constitution Day becomes public holiday from 2026 [e39fbf4f](https://github.com/commenthol/date-holidays/commit/e39fbf4f643f956e670af1b0e3de267263a8765a)
+
 ## [3.26.10](https://github.com/commenthol/date-holidays/compare/3.26.9...3.26.10) (2026-03-15)
 
 - fix(GB): license attribution [c029431d](https://github.com/commenthol/date-holidays/commit/c029431def8c3f74c9cb27747bde34d9430ebbb1)
