@@ -58,8 +58,8 @@
     "start": "2029-07-16T15:00:00.000Z",
     "end": "2029-07-17T15:00:00.000Z",
     "name": "제헌절",
-    "type": "observance",
-    "rule": "07-17",
+    "type": "public",
+    "rule": "07-17 since 2026",
     "_weekday": "Tue"
   },
   {
