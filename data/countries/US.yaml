@@ -305,6 +305,10 @@ holidays:
       FL:
         name: Florida
         days:
+          # @source https://dos.fl.gov/communications/press-releases/2026/icymi-governor-ron-desantis-announces-statewide-commemoration-of-america-s-250th-birthday
+          "2026-02-16":
+            name:
+              en: Commemoration of America's 250th Birthday
           2nd monday in October: false
           3rd monday in February: false
           02-15:
