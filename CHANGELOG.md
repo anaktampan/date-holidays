@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.26.10](https://github.com/commenthol/date-holidays/compare/3.26.9...3.26.10) (2026-03-15)
+
+- fix(GB): license attribution [c029431d](https://github.com/commenthol/date-holidays/commit/c029431def8c3f74c9cb27747bde34d9430ebbb1)
+- chore: github discontinue support for node@20, node@22 [1638b010](https://github.com/commenthol/date-holidays/commit/1638b0101d30c569759f3551f2b8c767107441ba)
+- fix(GB-SCT): easter not an holiday [25fa9331](https://github.com/commenthol/date-holidays/commit/25fa93311be9f0fcd7b4baf451d0a23db4ac034f)
+- fix(RU): Make international women's day in russia be observed on the monday after sunday. [e8762534](https://github.com/commenthol/date-holidays/commit/e8762534e2a0f6f09f047a144fe206c26a2105a8)
+
 ## [3.26.9](https://github.com/commenthol/date-holidays/compare/3.26.8...3.26.9) (2026-03-07)
 
 - fix(MY,SG): Update holiday dates and details for 2026 [4cdfca64](https://github.com/commenthol/date-holidays/commit/4cdfca642bad58ddd8712697def6244e29fc13b0)
