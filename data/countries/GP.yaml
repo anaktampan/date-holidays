@@ -9,7 +9,7 @@ holidays:
     langs:
       - fr
     zones:
-      - America/Port_of_Spain
+      - America/Guadeloupe
     dayoff: sunday
     _days: FR
     days:

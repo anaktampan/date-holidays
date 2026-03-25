@@ -58,7 +58,7 @@ holidays:
       GP:
         name: "Département et région d'outre-mer Guadeloupe"
         zones:
-          - America/Port_of_Spain
+          - America/Guadeloupe
         _days: GP
       GF:
         name: "Département et région d'outre-mer Guyane"
