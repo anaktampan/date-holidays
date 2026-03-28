@@ -96,6 +96,10 @@ holidays:
         zones:
           - Australia/Sydney
         days:
+          04-25 and if saturday then next monday:
+            substitute: true
+            name:
+              en: Anzac Day
           2nd monday in June:
             name:
               en: Queen's Birthday
