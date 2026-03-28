@@ -23,3 +23,10 @@ holidays:
         name:
           fr: Fête du Territoire
           en: Territory Day
+    # states:
+    #   AL:
+    #     name: Alo
+    #   SG:
+    #     name: Sigave
+    #   UV:
+    #     name: Uvea

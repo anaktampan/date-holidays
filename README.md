@@ -56,7 +56,7 @@ If you are missing holidays from your country, state, region please consider
 <!-- !tree -->
 
 ```
-Countries: 199
+Countries: 201
 ├── AD: Andorra
 │   └── 07: Andorra la Vella
 ├── AE: دولة الإمارات العربية المتحدة
@@ -509,6 +509,7 @@ Countries: 199
 ├── PA: Panamá
 ├── PE: Perú
 │   └── CUS: Cuzco
+├── PF: Polynésie française
 ├── PH: Philippines
 ├── PL: Polska
 ├── PM: St. Pierre & Miquelon
@@ -630,6 +631,7 @@ Countries: 199
 ├── VI: U.S. Virgin Islands
 ├── VN: Cộng hòa Xã hội chủ nghĩa Việt Nam
 ├── VU: République de Vanuatu
+├── WF: Wallis-et-Futuna
 ├── XK: Republika e Kosovës
 ├── YT: Mayotte
 ├── ZA: South Africa
