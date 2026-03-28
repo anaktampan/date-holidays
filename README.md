@@ -4,6 +4,7 @@
 
 [![NPM version](https://badge.fury.io/js/date-holidays.svg)](https://www.npmjs.com/package/date-holidays/)
 [![Build Status](https://github.com/commenthol/date-holidays/actions/workflows/ci.yml/badge.svg)](https://github.com/commenthol/date-holidays/actions/workflows/ci.yml)
+[![listed on awesome-europe](https://img.shields.io/badge/listed%20on-awesome--europe-ffcc00?style=flat-square&logo=europeanunion&logoColor=ffcc00&labelColor=003399)](https://github.com/GeiserX/awesome-europe#readme)
 
 This module provides dates of holidays for various countries, states and regions
 by type while considering the applicable timezone.
