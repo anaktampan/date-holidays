@@ -1,5 +1,10 @@
 # Changelog
 
+## [3.26.12](https://github.com/commenthol/date-holidays/compare/3.26.11...3.26.12) (2026-03-28)
+
+- docs: update license and readme [911026f3](https://github.com/commenthol/date-holidays/commit/911026f320137e4bbf48e3f48829edde4dd96cb2)
+- fix(NC,RE,GP,WF,PF): Fix FR territory bugs and add missing overseas collectivities [dab1169a](https://github.com/commenthol/date-holidays/commit/dab1169ae3bf7e35ebcfdda4e10f7dcebaaeacdb)
+
 ## [3.27.0](https://github.com/commenthol/date-holidays/compare/3.26.10...3.27.0) (2026-03-15)
 
 - fix(US-FL,#576): Add Commemoration of America's 250th Birthday holiday for Florida in 2026 [5638e72f](https://github.com/commenthol/date-holidays/commit/5638e72f355d0ca6dcc3282e7af7298297eac41b)
