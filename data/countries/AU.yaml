@@ -100,6 +100,14 @@ holidays:
             substitute: true
             name:
               en: Anzac Day
+            active:
+              - to: "2026-04-25"
+          04-25 and if saturday,sunday then next monday:
+            substitute: true
+            name:
+              en: Anzac Day
+            active:
+              - from: "2026-04-25"
           2nd monday in June:
             name:
               en: Queen's Birthday
