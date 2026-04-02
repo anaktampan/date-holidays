@@ -113,7 +113,8 @@ holidays:
           1st monday in October:
             name:
               en: Labour Day
-      # @source https://legislation.nt.gov.au/en/Legislation/PUBLIC-HOLIDAYS-ACT-1981
+      # @source https://www.legislation.nt.gov.au/en/Legislation/PUBLIC-HOLIDAYS-ACT-1981
+      # @source https://www.legislation.nt.gov.au/en/Bills/Public-Holidays-Amendment-Bill-2023-S-86
       NT:
         name: Northern Territory
         zones:
@@ -185,7 +186,7 @@ holidays:
               - from: "2022-09-09"
           12-24 18:00:
             _name: 12-24
-      # @source https://www.legislation.sa.gov.au/LZ/C/A/HOLIDAYS%20ACT%201910.aspx
+      # @source https://www.legislation.sa.gov.au/lz?path=%2FC%2FA%2FPublic%20Holidays%20Act%202023
       SA:
         name: South Australia
         zones:
@@ -288,6 +289,7 @@ holidays:
             name:
               en: Melbourne Cup
       # @source https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_a639.html
+      # @source https://www.legislation.wa.gov.au/legislation/statutes.nsf/law_a147326.html
       WA:
         name: Western Australia
         zones:
