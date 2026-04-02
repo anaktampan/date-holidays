@@ -119,7 +119,11 @@ holidays:
         zones:
           - Australia/Darwin
         days:
-          easter: false
+          easter:
+            name:
+              en: Easter Sunday
+            active:
+              - from: "2023-04-09"
           04-25: false
           04-25 if sunday then next monday:
             substitute: true
@@ -187,7 +191,11 @@ holidays:
         zones:
           - Australia/Adelaide
         days:
-          easter: false
+          easter:
+            name:
+              en: Easter Sunday
+            active:
+              - from: "2024-03-31"
           2nd monday in March:
             name:
               en: Adelaide Cup Day
@@ -290,7 +298,11 @@ holidays:
             name:
               en: Labour Day
           easter -1: false
-          easter: false
+          easter:
+            name:
+              en: Easter Sunday
+            active:
+              - from: "2022-04-17"
           04-25: false
           04-25 and if saturday,sunday then next monday:
             substitute: true
