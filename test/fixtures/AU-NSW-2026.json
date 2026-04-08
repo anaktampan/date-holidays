@@ -69,7 +69,7 @@
     "name": "Anzac Day (substitute day)",
     "type": "public",
     "substitute": true,
-    "rule": "04-25 and if saturday then next monday",
+    "rule": "04-25 and if saturday,sunday then next monday",
     "_weekday": "Mon"
   },
   {

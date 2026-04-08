@@ -90,7 +90,8 @@ holidays:
           1st monday in October:
             name:
               en: Labour Day
-      # @source https://www.legislation.nsw.gov.au/~/pdf/view/act/2010/115/whole
+      # @source https://www.legislation.nsw.gov.au/view/whole/html/inforce/current/act-2010-115
+      # @source https://www.legislation.nsw.gov.au/view/whole/html/inforce/current/sl-2011-0081
       NSW:
         name: New South Wales
         zones:
@@ -100,6 +101,14 @@ holidays:
             substitute: true
             name:
               en: Anzac Day
+            active:
+              - to: "2026-04-25"
+          04-25 and if saturday,sunday then next monday:
+            substitute: true
+            name:
+              en: Anzac Day
+            active:
+              - from: "2026-04-25"
           2nd monday in June:
             name:
               en: Queen's Birthday
