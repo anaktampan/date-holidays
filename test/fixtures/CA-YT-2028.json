@@ -139,7 +139,8 @@
     "start": "2028-09-30T07:00:00.000Z",
     "end": "2028-10-01T07:00:00.000Z",
     "name": "National Day for Truth and Reconciliation",
-    "type": "public",
+    "type": "observance",
+    "note": "Not a paid statutory holiday in all provinces and territories; Only federally-regulated employers governed by the Canada Labour Code are required to give their employees a paid day off work",
     "rule": "09-30 since 2021",
     "_weekday": "Sat"
   },
