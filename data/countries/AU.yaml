@@ -166,10 +166,15 @@ holidays:
           12-25 if saturday then next monday if sunday then next tuesday:
             substitute: true
             _name: 12-25
-          12-26 and if saturday then next monday if sunday then next tuesday: false
-          12-26 if saturday then next monday if sunday then next tuesday:
+          12-26 and if saturday then next monday if sunday then next tuesday:
             substitute: true
             _name: 12-26
+            active:
+              - from: "2023-12-26"
+          12-26 if saturday then next monday if sunday then next tuesday:
+            _name: 12-26
+            active:
+              - to: "2023-12-26"
           12-31 19:00:
             _name: 12-31
       # @source https://www.legislation.qld.gov.au/view/html/inforce/current/act-1983-018
@@ -232,10 +237,15 @@ holidays:
           12-25 if saturday then next monday if sunday then next tuesday:
             substitute: true
             _name: 12-25
-          12-26 and if saturday then next monday if sunday then next tuesday: false
-          12-26 if saturday then next monday if sunday then next tuesday:
+          12-26 and if saturday then next monday if sunday then next tuesday:
             substitute: true
             name: Proclamation Day
+            active:
+              - from: "2024-12-26"
+          12-26 if saturday then next monday if sunday then next tuesday:
+            name: Proclamation Day
+            active:
+              - to: "2024-12-26"
           12-31 19:00:
             _name: 12-31
       # @source https://www.legislation.tas.gov.au/view/html/inforce/current/act-2000-096
