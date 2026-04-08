@@ -5,6 +5,8 @@ holidays:
   # @source https://www.boe.es/boe/dias/2020/11/02/pdfs/BOE-A-2020-13343.pdf
   # @source https://www.boe.es/boe/dias/2021/10/21/pdfs/BOE-A-2021-17113.pdf
   # @source https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17113
+  # @source https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667
+  # @source https://www.boe.es/buscar/act.php?id=BOE-A-1983-20906#art45
   # buscar: "la relación de fiestas laborales para el año 20xx"
   ES:
     names:
@@ -33,8 +35,6 @@ holidays:
       03-19:
         _name: 03-19
         type: observance
-      easter -3:
-        _name: easter -3
       easter -2:
         _name: easter -2
       easter:
@@ -48,11 +48,6 @@ holidays:
       easter 49:
         _name: easter 49
         type: observance
-      07-25:
-        name:
-          es: Santiago Apostol
-        type: observance
-        note: regional
       08-15:
         _name: 08-15
       10-12:
@@ -110,6 +105,8 @@ holidays:
       AR:
         name: Aragón
         days:
+          easter -3:
+            _name: easter -3
           04-23:
             name:
               es: Día de Aragón
@@ -126,6 +123,8 @@ holidays:
       AS:
         name: Asturias
         days:
+          easter -3:
+            _name: easter -3
           substitutes 05-01 if Sunday then next Monday:
             substitute: true
             _name: 05-01
@@ -140,6 +139,8 @@ holidays:
       CB:
         name: Cantabria
         days:
+          easter -3:
+            _name: easter -3
           06-28:
             name: Día de las Instituciones de Cantabria
           substitutes 06-28 if Sunday then next Monday:
@@ -151,6 +152,8 @@ holidays:
       CE:
         name: Ciudad de Ceuta
         days:
+          easter -3:
+            _name: easter -3
           08-05:
             name: Nuestra Señora de África
           substitutes 08-05 if Sunday then next Monday:
@@ -168,6 +171,8 @@ holidays:
           es: Castilla y León
           en: Castile and León
         days:
+          easter -3:
+            _name: easter -3
           04-23:
             name: Fiesta de Castilla y León
           substitutes 04-23 if Sunday then next Monday:
@@ -182,6 +187,8 @@ holidays:
       CM:
         name: Castile-La Mancha
         days:
+          easter -3:
+            _name: easter -3
           05-31 since 2020:
             name: Día de Castilla-La Mancha
           substitutes 05-31 if Sunday then next Monday since 2020:
@@ -283,6 +290,8 @@ holidays:
       EX:
         name: Extremadura
         days:
+          easter -3:
+            _name: easter -3
           substitutes 05-01 if Sunday then next Monday:
             substitute: true
             _name: 05-01
@@ -294,6 +303,8 @@ holidays:
       GA:
         name: Galicia
         days:
+          easter -3:
+            _name: easter -3
           05-17:
             name: Día de las Letras Gallegas
           substitutes 05-17 if Sunday then next Monday:
@@ -316,6 +327,8 @@ holidays:
             substitute: true
             name:
               es: Día de les Illes Balears
+          easter -3:
+            _name: easter -3
           easter 1:
             _name: easter 1
           12-26:
@@ -325,12 +338,16 @@ holidays:
       MC:
         name: Murcia Region
         days:
+          easter -3:
+            _name: easter -3
           substitutes 05-01 if Sunday then next Monday:
             substitute: true
             _name: 05-01
       MD:
         name: Comunidad de Madrid
         days:
+          easter -3:
+            _name: easter -3
           05-02 if Sunday then next Monday:
             name:
               es: Día de la Comunidad de Madrid
@@ -342,11 +359,6 @@ holidays:
             name:
               es: San Isidro Labrador
             type: observance
-          07-25:
-            name: Santiago Apóstol
-          substitutes 07-25 if Sunday then next Monday:
-            substitute: true
-            name: Santiago Apóstol
           11-09 if sunday then next monday:
             name:
               es: Nuestra Señora de la Almudena
@@ -354,6 +366,8 @@ holidays:
       ML:
         name: Ciudad de Melilla
         days:
+          easter -3:
+            _name: easter -3
           1 Shawwal:
             _name: 1 Shawwal
           10 Dhu al-Hijjah:
@@ -363,6 +377,8 @@ holidays:
           es: Comunidad Foral de Navarra
           en: Navarra Chartered Community
         days:
+          easter -3:
+            _name: easter -3
           easter 1:
             _name: easter 1
           07-25:
@@ -375,6 +391,8 @@ holidays:
           es: País Vasco
           en: Basque Country
         days:
+          easter -3:
+            _name: easter -3
           easter 1:
             _name: easter 1
           07-25:
@@ -387,6 +405,8 @@ holidays:
       RI:
         name: La Rioja
         days:
+          easter -3:
+            _name: easter -3
           easter 1:
             _name: easter 1
       VC:

@@ -90,16 +90,6 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2028-07-25 00:00:00",
-    "start": "2028-07-24T23:00:00.000Z",
-    "end": "2028-07-25T23:00:00.000Z",
-    "name": "Santiago Apostol",
-    "type": "observance",
-    "note": "regional",
-    "rule": "07-25",
-    "_weekday": "Tue"
-  },
-  {
     "date": "2028-08-05 00:00:00",
     "start": "2028-08-04T23:00:00.000Z",
     "end": "2028-08-05T23:00:00.000Z",

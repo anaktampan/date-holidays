@@ -11,6 +11,8 @@ holidays:
     dayoff: sunday
     _days: ES
     days:
+      easter -3:
+        _name: easter -3
       05-30:
         name:
           es: Día de Canarias
