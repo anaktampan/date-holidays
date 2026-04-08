@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.26.13](https://github.com/commenthol/date-holidays/compare/3.26.12...3.26.13) (2026-04-08)
+
+- fix(SG): add Vesak Day [33682655](https://github.com/commenthol/date-holidays/commit/33682655f907e2c2d179bec1b39692e107ba00ab)
+- docs(AU): update legislation sources for NSW [1e70aef9](https://github.com/commenthol/date-holidays/commit/1e70aef930c8e7fa0e7706193b058f5ef3cea9d3)
+- docs(AU): update legislation sources for WA, NT, and SA [22d4f463](https://github.com/commenthol/date-holidays/commit/22d4f4635c7ebc36b76e879ad36e973f1cba47cf)
+- fix(AU): ANZAC Day substitute rule for NSW [97fd1aaf](https://github.com/commenthol/date-holidays/commit/97fd1aafc75282fc93e8321f2875d98feef565c1)
+- fix(AU): 26 Dec substitute rules for NT and SA [aa9f5a40](https://github.com/commenthol/date-holidays/commit/aa9f5a40eb9ffcc35dfe5a7b68ade31b6f961196)
+- fix(AU): add Easter Sunday for WA, NT and SA [76e9204a](https://github.com/commenthol/date-holidays/commit/76e9204a8250e5743ab3c6a6475536ce4441c93f)
+- fix(AU-NSW): Anzac Day substitute rule [8e956973](https://github.com/commenthol/date-holidays/commit/8e95697356babbd8822691412324e991b5a54aa8)
+- docs: add awesome-europe badge [a0b7c3ac](https://github.com/commenthol/date-holidays/commit/a0b7c3ac69e7a9c5b20264df6269c6ff9b88ffc7)
+
 ## [3.26.12](https://github.com/commenthol/date-holidays/compare/3.26.11...3.26.12) (2026-03-28)
 
 - docs: update license and readme [911026f3](https://github.com/commenthol/date-holidays/commit/911026f320137e4bbf48e3f48829edde4dd96cb2)
