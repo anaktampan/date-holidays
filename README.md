@@ -57,7 +57,7 @@ If you are missing holidays from your country, state, region please consider
 <!-- !tree -->
 
 ```
-Countries: 201
+Countries: 202
 ├── AD: Andorra
 │   └── 07: Andorra la Vella
 ├── AE: دولة الإمارات العربية المتحدة
@@ -433,6 +433,7 @@ Countries: 201
 ├── KY: Cayman Islands
 ├── LC: St. Lucia
 ├── LI: Liechtenstein
+├── LK: ශ්‍රී ලංකාව
 ├── LR: Liberia
 ├── LS: \'Muso oa Lesotho
 ├── LT: Lietuva
