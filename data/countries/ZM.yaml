@@ -40,9 +40,14 @@ holidays:
       1st monday in August:
         name:
           en: Farmers' Day
-      "2015-10-18":
+      04-28 and if sunday then next monday:
+        substitute: true
         name:
-          en: National day of Prayers
+          en: Kenneth Kaunda Day
+      10-18 and if sunday then next monday:
+        substitute: true
+        name:
+          en: National Day of Prayer, Fasting and Reconciliation
       10-24 and if sunday then next monday:
         substitute: true
         _name: Independence Day
