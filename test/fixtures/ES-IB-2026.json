@@ -145,16 +145,6 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2026-12-07 00:00:00",
-    "start": "2026-12-06T23:00:00.000Z",
-    "end": "2026-12-07T23:00:00.000Z",
-    "name": "Día de la Constitución Española (día sustituto)",
-    "type": "observance",
-    "substitute": true,
-    "rule": "substitutes 12-06 if sunday then next monday",
-    "_weekday": "Mon"
-  },
-  {
     "date": "2026-12-08 00:00:00",
     "start": "2026-12-07T23:00:00.000Z",
     "end": "2026-12-08T23:00:00.000Z",

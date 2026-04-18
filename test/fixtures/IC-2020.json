@@ -136,16 +136,6 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2020-12-07 00:00:00",
-    "start": "2020-12-07T00:00:00.000Z",
-    "end": "2020-12-08T00:00:00.000Z",
-    "name": "Día de la Constitución Española (día sustituto)",
-    "type": "observance",
-    "substitute": true,
-    "rule": "substitutes 12-06 if sunday then next monday",
-    "_weekday": "Mon"
-  },
-  {
     "date": "2020-12-08 00:00:00",
     "start": "2020-12-08T00:00:00.000Z",
     "end": "2020-12-09T00:00:00.000Z",
