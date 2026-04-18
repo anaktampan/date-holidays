@@ -219,7 +219,7 @@ holidays:
             _name: easter 60
           substitutes 11-01 if sunday then next monday:
             substitute: true
-            _name: 11-01            
+            _name: 11-01
       CN:
         names:
           es: Islas Canarias
@@ -459,7 +459,7 @@ holidays:
           easter 1:
             _name: easter 1
           06-09:
-            name: 
+            name:
               es: Día de La Rioja
           substitutes 12-06 if sunday then next monday:
             substitute: true
@@ -474,3 +474,7 @@ holidays:
             _name: 03-19
           easter 1:
             _name: easter 1
+          06-24:
+            name:
+              es: San Juan
+              ca: Sant Joan
