@@ -22,7 +22,7 @@
     "start": "2029-03-18T23:00:00.000Z",
     "end": "2029-03-19T23:00:00.000Z",
     "name": "San José",
-    "type": "observance",
+    "type": "public",
     "rule": "03-19",
     "_weekday": "Mon"
   },

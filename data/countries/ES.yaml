@@ -338,6 +338,8 @@ holidays:
       GA:
         name: Galicia
         days:
+          03-19:
+            _name: 03-19
           easter -3:
             _name: easter -3
           05-17:
@@ -367,6 +369,8 @@ holidays:
       MC:
         name: Murcia Region
         days:
+          03-19:
+            _name: 03-19
           easter -3:
             _name: easter -3
           substitutes 05-01 if Sunday then next Monday:
@@ -421,6 +425,8 @@ holidays:
           es: Comunidad Foral de Navarra
           en: Navarra Chartered Community
         days:
+          03-19:
+            _name: 03-19
           easter -3:
             _name: easter -3
           easter 1:
@@ -435,6 +441,8 @@ holidays:
           es: País Vasco
           en: Basque Country
         days:
+          03-19:
+            _name: 03-19
           easter -3:
             _name: easter -3
           easter 1:
