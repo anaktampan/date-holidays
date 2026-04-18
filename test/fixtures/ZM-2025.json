@@ -50,7 +50,7 @@
     "end": "2025-04-28T22:00:00.000Z",
     "name": "Kenneth Kaunda Day",
     "type": "public",
-    "rule": "04-28 and if sunday then next monday",
+    "rule": "04-28 since 2022 and if sunday then next monday",
     "_weekday": "Mon"
   },
   {

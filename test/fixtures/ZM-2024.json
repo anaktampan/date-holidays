@@ -45,22 +45,12 @@
     "_weekday": "Mon"
   },
   {
-    "date": "2024-04-28 00:00:00",
-    "start": "2024-04-27T22:00:00.000Z",
-    "end": "2024-04-28T22:00:00.000Z",
-    "name": "Kenneth Kaunda Day",
-    "type": "public",
-    "rule": "04-28 and if sunday then next monday",
-    "_weekday": "Sun"
-  },
-  {
     "date": "2024-04-29 00:00:00",
     "start": "2024-04-28T22:00:00.000Z",
     "end": "2024-04-29T22:00:00.000Z",
-    "name": "Kenneth Kaunda Day (substitute day)",
+    "name": "Kenneth Kaunda Day",
     "type": "public",
-    "substitute": true,
-    "rule": "04-28 and if sunday then next monday",
+    "rule": "04-28 since 2022 and if sunday then next monday",
     "_weekday": "Mon"
   },
   {
