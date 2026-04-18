@@ -81,16 +81,6 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2026-05-18 00:00:00",
-    "start": "2026-05-17T22:00:00.000Z",
-    "end": "2026-05-18T22:00:00.000Z",
-    "name": "Día de las Letras Gallegas",
-    "type": "public",
-    "substitute": true,
-    "rule": "substitutes 05-17 if Sunday then next Monday",
-    "_weekday": "Mon"
-  },
-  {
     "date": "2026-05-24 00:00:00",
     "start": "2026-05-23T22:00:00.000Z",
     "end": "2026-05-24T22:00:00.000Z",

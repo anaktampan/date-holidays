@@ -1,11 +1,14 @@
 holidays:
   # @attrib https://es.m.wikipedia.org/wiki/Calendario_laboral
-  # @source https://www.boe.es/boe/dias/2018/10/20/pdfs/BOE-A-2018-14369.pdf
-  # @source https://www.boe.es/boe/dias/2019/10/11/pdfs/BOE-A-2019-14552.pdf
-  # @source https://www.boe.es/boe/dias/2020/11/02/pdfs/BOE-A-2020-13343.pdf
-  # @source https://www.boe.es/boe/dias/2021/10/21/pdfs/BOE-A-2021-17113.pdf
+  # @source https://www.boe.es/boe/dias/2018/10/20/pdfs/BOE-A-2018-14369.pdf (2019)
+  # @source https://www.boe.es/boe/dias/2019/10/11/pdfs/BOE-A-2019-14552.pdf (2020)
+  # @source https://www.boe.es/boe/dias/2020/11/02/pdfs/BOE-A-2020-13343.pdf (2021)
+  # @source https://www.boe.es/boe/dias/2021/10/21/pdfs/BOE-A-2021-17113.pdf (2022)
+  # @source https://www.boe.es/boe/dias/2022/10/14/pdfs/BOE-A-2022-16755.pdf (2023)
+  # @source https://www.boe.es/boe/dias/2023/10/27/pdfs/BOE-A-2023-22014.pdf (2024)
+  # @source https://www.boe.es/boe/dias/2024/10/18/pdfs/BOE-A-2024-21316.pdf (2025)
+  # @source https://www.boe.es/boe/dias/2025/10/28/pdfs/BOE-A-2025-21667.pdf (2026)
   # @source https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17113
-  # @source https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-21667
   # @source https://www.boe.es/buscar/act.php?id=BOE-A-1983-20906#art45
   # buscar: "la relación de fiestas laborales para el año 20xx"
   ES:
@@ -339,13 +342,7 @@ holidays:
             _name: easter -3
           05-17:
             name: Día de las Letras Gallegas
-          substitutes 05-17 if Sunday then next Monday:
-            substitute: true
-            name: Día de las Letras Gallegas
           07-25:
-            name: Día Nacional de Galicia
-          substitutes 07-25 if Sunday then next Monday:
-            substitute: true
             name: Día Nacional de Galicia
       IB:
         names:
@@ -443,9 +440,6 @@ holidays:
           easter 1:
             _name: easter 1
           07-25:
-            name: Santiago Apóstol
-          substitutes 07-25 if Sunday then next Monday:
-            substitute: true
             name: Santiago Apóstol
           "2022-09-06":
             name: V Centenario Vuelta al Mundo
