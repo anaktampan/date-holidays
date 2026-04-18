@@ -90,16 +90,6 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2026-06-01 00:00:00",
-    "start": "2026-05-31T22:00:00.000Z",
-    "end": "2026-06-01T22:00:00.000Z",
-    "name": "Día de Castilla-La Mancha",
-    "type": "public",
-    "substitute": true,
-    "rule": "substitutes 05-31 if Sunday then next Monday since 2020",
-    "_weekday": "Mon"
-  },
-  {
     "date": "2026-06-04 00:00:00",
     "start": "2026-06-03T22:00:00.000Z",
     "end": "2026-06-04T22:00:00.000Z",

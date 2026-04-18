@@ -212,9 +212,9 @@ holidays:
             _name: easter -3
           05-31 since 2020:
             name: Día de Castilla-La Mancha
-          substitutes 05-31 if Sunday then next Monday since 2020:
-            substitute: true
-            name: Día de Castilla-La Mancha
+          # substitutes 05-31 if Sunday then next Monday since 2020:
+          #   substitute: true
+          #   name: Día de Castilla-La Mancha
           easter 60:
             _name: easter 60
           substitutes 11-01 if sunday then next monday:
