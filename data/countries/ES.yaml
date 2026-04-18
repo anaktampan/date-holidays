@@ -303,16 +303,16 @@ holidays:
               ca: Sant Esteve
               es: San Esteban
             type: observance
-          regions:
-            B:
-              names:
-                ca: Barcelona
-                es: Barcelona
-              days:
-                09-24:
-                  name:
-                    ca: Mare de Déu de la Mercè
-                    es: Nuestra Señora de la Merced
+        regions:
+          B:
+            names:
+              ca: Barcelona
+              es: Barcelona
+            days:
+              09-24:
+                name:
+                  ca: Mare de Déu de la Mercè
+                  es: Nuestra Señora de la Merced
       EX:
         name: Extremadura
         days:
