@@ -458,6 +458,9 @@ holidays:
             _name: easter -3
           easter 1:
             _name: easter 1
+          06-09:
+            name: 
+              es: Día de La Rioja
           substitutes 12-06 if sunday then next monday:
             substitute: true
             name:
