@@ -212,9 +212,6 @@ holidays:
             _name: easter -3
           05-31 since 2020:
             name: Día de Castilla-La Mancha
-          # substitutes 05-31 if Sunday then next Monday since 2020:
-          #   substitute: true
-          #   name: Día de Castilla-La Mancha
           easter 60:
             _name: easter 60
           substitutes 11-01 if sunday then next monday:
@@ -298,19 +295,24 @@ holidays:
             type: observance
           easter 1:
             _name: easter 1
-          easter 50:
-            _name: easter 50
           substitutes 05-01 if Saturday, Sunday then next Monday:
             substitute: true
             _name: 05-01
-          09-24 if sunday then next monday:
-            name:
-              es: Mare de Déu de la Mercè
           12-26:
             name:
               ca: Sant Esteve
               es: San Esteban
             type: observance
+          regions:
+            B:
+              names:
+                ca: Barcelona
+                es: Barcelona
+              days:
+                09-24:
+                  name:
+                    ca: Mare de Déu de la Mercè
+                    es: Nuestra Señora de la Merced
       EX:
         name: Extremadura
         days:
