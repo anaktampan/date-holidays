@@ -155,8 +155,6 @@ holidays:
             _name: easter -3
           06-28:
             name: Día de las Instituciones de Cantabria
-          substitutes 06-28 if Sunday then next Monday:
-            name: Día de las Instituciones de Cantabria
           09-15:
             name: La Bien Aparecida
           substitutes 09-15 if Sunday then next Monday:
