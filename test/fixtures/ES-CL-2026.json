@@ -121,7 +121,7 @@
     "start": "2026-11-01T23:00:00.000Z",
     "end": "2026-11-02T23:00:00.000Z",
     "name": "Todos los Santos (día sustituto)",
-    "type": "observance",
+    "type": "public",
     "substitute": true,
     "rule": "substitutes 11-01 if sunday then next monday",
     "_weekday": "Mon"

@@ -130,7 +130,7 @@
     "start": "2020-11-02T00:00:00.000Z",
     "end": "2020-11-03T00:00:00.000Z",
     "name": "Todos los Santos (día sustituto)",
-    "type": "observance",
+    "type": "public",
     "substitute": true,
     "rule": "substitutes 11-01 if sunday then next monday",
     "_weekday": "Mon"

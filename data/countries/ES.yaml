@@ -60,10 +60,6 @@ holidays:
           es: Fiesta Nacional de España
       11-01:
         _name: 11-01
-      substitutes 11-01 if sunday then next monday:
-        substitute: true
-        type: observance
-        _name: 11-01
       12-06:
         name:
           es: Día de la Constitución Española
@@ -102,6 +98,9 @@ holidays:
             _name: 08-15
           easter -3:
             _name: easter -3
+          substitutes 11-01 if sunday then next monday:
+            substitute: true
+            _name: 11-01
       AR:
         name: Aragón
         days:
@@ -120,6 +119,9 @@ holidays:
           substitutes 08-15 if Sunday then next Monday:
             substitute: true
             _name: 08-15
+          substitutes 11-01 if sunday then next monday:
+            substitute: true
+            _name: 11-01
       AS:
         name: Asturias
         days:
@@ -136,6 +138,9 @@ holidays:
           substitutes 09-08 if Sunday then next Monday:
             substitute: true
             name: Día de Asturias
+          substitutes 11-01 if sunday then next monday:
+            substitute: true
+            _name: 11-01
       CB:
         name: Cantabria
         days:
@@ -184,6 +189,9 @@ holidays:
           substitutes 08-15 if Sunday then next Monday:
             substitute: true
             _name: 08-15
+          substitutes 11-01 if sunday then next monday:
+            substitute: true
+            _name: 11-01
       CM:
         name: Castile-La Mancha
         days:
@@ -196,6 +204,9 @@ holidays:
             name: Día de Castilla-La Mancha
           easter 60:
             _name: easter 60
+          substitutes 11-01 if sunday then next monday:
+            substitute: true
+            _name: 11-01            
       CN:
         names:
           es: Islas Canarias
@@ -300,6 +311,9 @@ holidays:
           substitutes 09-08 if Sunday then next Monday:
             substitute: true
             name: Día de Extremadura
+          substitutes 11-01 if sunday then next monday:
+            substitute: true
+            _name: 11-01
       GA:
         name: Galicia
         days:
@@ -363,6 +377,9 @@ holidays:
             name:
               es: Nuestra Señora de la Almudena
             type: observance
+          substitutes 11-01 if sunday then next monday:
+            substitute: true
+            _name: 11-01
       ML:
         name: Ciudad de Melilla
         days:
@@ -381,6 +398,9 @@ holidays:
             _name: easter -3
           easter 1:
             _name: easter 1
+          substitutes 11-01 if sunday then next monday:
+            substitute: true
+            _name: 11-01
           # Lunes siguiente al Día de la Constitución Española is not observed
           substitutes 12-06 if sunday then next monday: false
       PV:
