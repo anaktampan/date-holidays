@@ -302,7 +302,6 @@ holidays:
             name:
               ca: Sant Esteve
               es: San Esteban
-            type: observance
         regions:
           B:
             names:

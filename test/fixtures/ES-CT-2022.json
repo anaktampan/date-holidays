@@ -186,7 +186,7 @@
     "start": "2022-12-25T23:00:00.000Z",
     "end": "2022-12-26T23:00:00.000Z",
     "name": "San Esteban",
-    "type": "observance",
+    "type": "public",
     "rule": "12-26",
     "_weekday": "Mon"
   }
