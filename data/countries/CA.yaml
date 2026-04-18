@@ -79,11 +79,14 @@ holidays:
           fr: Premier lundi d’août
       1st monday in September:
         _name: 05-01
-      # https://www.canada.ca/en/canadian-heritage/campaigns/national-day-truth-reconciliation.html
+      # @source https://www.canada.ca/en/canadian-heritage/campaigns/national-day-truth-reconciliation.html
+      # @source https://goldblattpartners.com/unsolicited-blog/canadas-new-public-holiday-the-national-day-for-truth-and-reconciliation/
       09-30 since 2021:
         name:
           en: National Day for Truth and Reconciliation
           fr: Journée nationale de la vérité et de la réconciliation
+        type: observance
+        note: Not a paid statutory holiday in all provinces and territories; Only federally-regulated employers governed by the Canada Labour Code are required to give their employees a paid day off work
       2nd monday after 10-01:
         name:
           en: Thanksgiving
@@ -119,6 +122,7 @@ holidays:
               en: Heritage Day
               fr: Fête du patrimoine
             type: optional
+          09-30 since 2021: false
       BC:
         name: British Columbia
         zones:
@@ -170,6 +174,7 @@ holidays:
               fr: Fête de la famille
             active:
               - from: 2018
+          09-30 since 2021: false
       NL:
         name: Newfoundland and Labrador
         zones:
@@ -238,7 +243,8 @@ holidays:
             name:
               en: Nunavut Day
             type: bank
-      ON:
+          09-30 since 2021: false
+      "ON":
         name: Ontario
         zones:
           - America/Toronto
@@ -254,6 +260,7 @@ holidays:
               fr: Fête de la famille
           easter 1:
             _name: easter 1
+          09-30 since 2021: false
       PE:
         name: Prince Edward Island
         days:
@@ -268,6 +275,7 @@ holidays:
             name:
               en: Gold Cup Parade Day
               fr: "Défilé de la Coupe d'or"
+          09-30 since 2021: false
       # @source https://www.cnesst.gouv.qc.ca/en/working-conditions/leave/statutory-holidays/statutory-holidays
       QC:
         name: Quebec
@@ -291,6 +299,7 @@ holidays:
               en: National Holiday
               fr: Fête nationale du Québec
           monday after 08-01: false
+          09-30 since 2021: false
       SK:
         name: Saskatchewan
         zones:
@@ -305,6 +314,7 @@ holidays:
           1st monday in August:
             name:
               en: Saskatchewan Day
+          09-30 since 2021: false
       YT:
         name: Yukon
         zones:
