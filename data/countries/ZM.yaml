@@ -47,7 +47,7 @@ holidays:
       10-18 and if sunday then next monday:
         substitute: true
         name:
-          en: National Day of Prayer, Fasting and Reconciliation
+          en: National Day of Prayers
       10-24 and if sunday then next monday:
         substitute: true
         _name: Independence Day
