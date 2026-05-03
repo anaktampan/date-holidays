@@ -57,7 +57,7 @@ If you are missing holidays from your country, state, region please consider
 <!-- !tree -->
 
 ```
-Countries: 202
+Countries: 203
 ├── AD: Andorra
 │   └── 07: Andorra la Vella
 ├── AE: دولة الإمارات العربية المتحدة
@@ -455,6 +455,7 @@ Countries: 202
 ├── MR: الجمهورية الإسلامية الموريتانية
 ├── MS: Montserrat
 ├── MT: Malta
+├── MU: Mauritius
 ├── MW: Malawi
 ├── MX: México
 ├── MY: Malaysia

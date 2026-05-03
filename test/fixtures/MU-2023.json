@@ -41,7 +41,7 @@
     "end": "2023-02-05T20:00:00.000Z",
     "name": "Thaipoosam Cavadee",
     "type": "public",
-    "rule": "2023-02-05",
+    "rule": "02-01 since 2020 prior to 2050",
     "_weekday": "Sun"
   },
   {
@@ -50,7 +50,7 @@
     "end": "2023-02-18T20:00:00.000Z",
     "name": "Maha Shivaratree",
     "type": "public",
-    "rule": "2023-02-18",
+    "rule": "03-01 since 2020 prior to 2050",
     "_weekday": "Sat"
   },
   {
@@ -68,7 +68,7 @@
     "end": "2023-03-22T20:00:00.000Z",
     "name": "Ugadi",
     "type": "public",
-    "rule": "2023-03-22",
+    "rule": "04-01 since 2020 prior to 2050",
     "_weekday": "Wed"
   },
   {
@@ -95,7 +95,7 @@
     "end": "2023-09-18T20:00:00.000Z",
     "name": "Ganesh Chaturthi",
     "type": "public",
-    "rule": "2023-09-18",
+    "rule": "09-01 since 2020 prior to 2050",
     "_weekday": "Mon"
   },
   {
@@ -122,7 +122,7 @@
     "end": "2023-11-13T20:00:00.000Z",
     "name": "Divali",
     "type": "public",
-    "rule": "2023-11-13",
+    "rule": "11-01 since 2020 prior to 2050",
     "_weekday": "Mon"
   },
   {
