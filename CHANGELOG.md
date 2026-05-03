@@ -1,5 +1,27 @@
 # Changelog
 
+## [3.28.0](https://github.com/commenthol/date-holidays/compare/3.27.0...3.28.0) (2026-05-03)
+
+- fix(MU): simplify rules for Hindu holidays (2020–2050) [4f56de17](https://github.com/commenthol/date-holidays/commit/4f56de17a361d45ee7f0cd70f82924818d390bf6)
+- fix(ZM): Kaunda Day is celebrated since 2022 [a58c1e19](https://github.com/commenthol/date-holidays/commit/a58c1e19aad54e2a65b871ac7d4eb8efa3e36130)
+- feat(MU): add Mauritius public holidays [d58aea6a](https://github.com/commenthol/date-holidays/commit/d58aea6a889d0b43028b3a69afdc78a2375784e8)
+- feat(ZM): add Kenneth Kaunda Day and update National Day of Prayers for multiple years [8c624df2](https://github.com/commenthol/date-holidays/commit/8c624df2dd31b12912155785bfb5caa47a7b50f5)
+- fix(ES-VC): San Juan [2c327738](https://github.com/commenthol/date-holidays/commit/2c327738c33a87965e17ab67f3168b25e937550e)
+- fix(ES-RI): Dia de La Rioja [797a0875](https://github.com/commenthol/date-holidays/commit/797a087568f9a52a84130a2f22dad2ae3b5c622d)
+- fix(ES-GA, ES-MC, ES-NC, ES-PV): Fix San José [b1fce2ae](https://github.com/commenthol/date-holidays/commit/b1fce2aeec547a3feb996cbc884e923e5f30742f)
+- fix(ES-GA, ES-PV): 25.7. is not substituted if Sunday, but fixed date [5b6e7264](https://github.com/commenthol/date-holidays/commit/5b6e72648b5dda43d184b669dda73d3172affe17)
+- fix(ES-CT): San Esteban is a public holiday in Catalonia [e314da8c](https://github.com/commenthol/date-holidays/commit/e314da8ca4b80effb90a8ca61156286396a41a7f)
+- fix(ES-CT): Mare de Déu de la Mercè is only a holiday in Barcelona, not in the whole Catalonia [04b11416](https://github.com/commenthol/date-holidays/commit/04b1141619c5ec0ecc1332d872979780f4447ebf)
+- fix(ES-CT): Lunes de Pentecostés is not a public holiday in Catalonia [91d9fee5](https://github.com/commenthol/date-holidays/commit/91d9fee5e7228e2cfad03ace3ef0fc55d5c1805a)
+- fix(ES-CM): Día de Castilla-La Mancha is not substituted next Monday if it falls on Sunday [61ab5049](https://github.com/commenthol/date-holidays/commit/61ab5049741c5e87619137fdaaabbd0eb232d860)
+- fix(ES-CB): Día de las Instituciones de Cantabria is not substituted next Monday if it falls on Sunday [2a686d50](https://github.com/commenthol/date-holidays/commit/2a686d5025849dfec9537fc29f231e3dc9f067fd)
+- fix(ES): Lunes siguiente al Día de la Constitución Española is not public in all states [c28131c6](https://github.com/commenthol/date-holidays/commit/c28131c647244c1da3803860ed1546e4af24b4d2)
+- fix(ES): Día siguiente a Todos los Santos is not public [2f567e2f](https://github.com/commenthol/date-holidays/commit/2f567e2fa1e535b97a6931070fe9afe57b99a004)
+- fix(ZM): corrected (October 18) as a recurring holiday and added Kenneth Kaunda Day(April 28) [aeda336a](https://github.com/commenthol/date-holidays/commit/aeda336adc995f136d8aeec8e93196993f656f67)
+- fix(ES-NC): Santiago Apóstol is not observed [513c3310](https://github.com/commenthol/date-holidays/commit/513c3310d09f6bbdaefac647df4072df639a0071)
+- fix(ES): Jueves santo not observed in CT, VC [24c358dc](https://github.com/commenthol/date-holidays/commit/24c358dc90ab7344dfb2af80abf9f5d42453a4fe)
+- fix(CA): National Day for Truth and Reconciliation not observed in all provinces [cb977a3d](https://github.com/commenthol/date-holidays/commit/cb977a3d80effb9df1630ef79c7eb54d0e84917e)
+
 ## [3.27.0](https://github.com/commenthol/date-holidays/compare/3.26.13...3.27.0) (2026-04-11)
 
 - fix: update Sri Lanka data [06b537fe](https://github.com/commenthol/date-holidays/commit/06b537fe9e69ec4ac423ce937062320f20432d6a)
