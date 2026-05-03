@@ -90,15 +90,6 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2015-05-25 00:00:00",
-    "start": "2015-05-24T22:00:00.000Z",
-    "end": "2015-05-25T22:00:00.000Z",
-    "name": "Lunes de Pentecostés",
-    "type": "public",
-    "rule": "easter 50",
-    "_weekday": "Mon"
-  },
-  {
     "date": "2015-06-24 00:00:00",
     "start": "2015-06-23T22:00:00.000Z",
     "end": "2015-06-24T22:00:00.000Z",
@@ -106,16 +97,6 @@
     "type": "public",
     "rule": "06-24",
     "_weekday": "Wed"
-  },
-  {
-    "date": "2015-07-25 00:00:00",
-    "start": "2015-07-24T22:00:00.000Z",
-    "end": "2015-07-25T22:00:00.000Z",
-    "name": "Santiago Apostol",
-    "type": "observance",
-    "note": "regional",
-    "rule": "07-25",
-    "_weekday": "Sat"
   },
   {
     "date": "2015-08-15 00:00:00",
@@ -136,15 +117,6 @@
     "_weekday": "Fri"
   },
   {
-    "date": "2015-09-24 00:00:00",
-    "start": "2015-09-23T22:00:00.000Z",
-    "end": "2015-09-24T22:00:00.000Z",
-    "name": "Mare de Déu de la Mercè",
-    "type": "public",
-    "rule": "09-24 if sunday then next monday",
-    "_weekday": "Thu"
-  },
-  {
     "date": "2015-10-12 00:00:00",
     "start": "2015-10-11T22:00:00.000Z",
     "end": "2015-10-12T22:00:00.000Z",
@@ -163,16 +135,6 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2015-11-02 00:00:00",
-    "start": "2015-11-01T23:00:00.000Z",
-    "end": "2015-11-02T23:00:00.000Z",
-    "name": "Todos los Santos (día sustituto)",
-    "type": "observance",
-    "substitute": true,
-    "rule": "substitutes 11-01 if sunday then next monday",
-    "_weekday": "Mon"
-  },
-  {
     "date": "2015-12-06 00:00:00",
     "start": "2015-12-05T23:00:00.000Z",
     "end": "2015-12-06T23:00:00.000Z",
@@ -180,16 +142,6 @@
     "type": "public",
     "rule": "12-06",
     "_weekday": "Sun"
-  },
-  {
-    "date": "2015-12-07 00:00:00",
-    "start": "2015-12-06T23:00:00.000Z",
-    "end": "2015-12-07T23:00:00.000Z",
-    "name": "Día de la Constitución Española (día sustituto)",
-    "type": "observance",
-    "substitute": true,
-    "rule": "substitutes 12-06 if sunday then next monday",
-    "_weekday": "Mon"
   },
   {
     "date": "2015-12-08 00:00:00",
@@ -214,7 +166,7 @@
     "start": "2015-12-25T23:00:00.000Z",
     "end": "2015-12-26T23:00:00.000Z",
     "name": "San Esteban",
-    "type": "observance",
+    "type": "public",
     "rule": "12-26",
     "_weekday": "Sat"
   }

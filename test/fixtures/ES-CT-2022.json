@@ -100,15 +100,6 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2022-06-06 00:00:00",
-    "start": "2022-06-05T22:00:00.000Z",
-    "end": "2022-06-06T22:00:00.000Z",
-    "name": "Lunes de Pentecostés",
-    "type": "public",
-    "rule": "easter 50",
-    "_weekday": "Mon"
-  },
-  {
     "date": "2022-06-24 00:00:00",
     "start": "2022-06-23T22:00:00.000Z",
     "end": "2022-06-24T22:00:00.000Z",
@@ -116,16 +107,6 @@
     "type": "public",
     "rule": "06-24",
     "_weekday": "Fri"
-  },
-  {
-    "date": "2022-07-25 00:00:00",
-    "start": "2022-07-24T22:00:00.000Z",
-    "end": "2022-07-25T22:00:00.000Z",
-    "name": "Santiago Apostol",
-    "type": "observance",
-    "note": "regional",
-    "rule": "07-25",
-    "_weekday": "Mon"
   },
   {
     "date": "2022-08-15 00:00:00",
@@ -144,15 +125,6 @@
     "type": "public",
     "rule": "09-11",
     "_weekday": "Sun"
-  },
-  {
-    "date": "2022-09-24 00:00:00",
-    "start": "2022-09-23T22:00:00.000Z",
-    "end": "2022-09-24T22:00:00.000Z",
-    "name": "Mare de Déu de la Mercè",
-    "type": "public",
-    "rule": "09-24 if sunday then next monday",
-    "_weekday": "Sat"
   },
   {
     "date": "2022-10-12 00:00:00",
@@ -214,7 +186,7 @@
     "start": "2022-12-25T23:00:00.000Z",
     "end": "2022-12-26T23:00:00.000Z",
     "name": "San Esteban",
-    "type": "observance",
+    "type": "public",
     "rule": "12-26",
     "_weekday": "Mon"
   }

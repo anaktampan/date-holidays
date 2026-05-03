@@ -288,6 +288,7 @@ Countries: 202
 │   │   ├── LA: Lanzarote
 │   │   └── TE: Tenerife
 │   ├── CT: Cataluña
+│   │   └── B: Barcelona
 │   ├── EX: Extremadura
 │   ├── GA: Galicia
 │   ├── IB: Illes Balears

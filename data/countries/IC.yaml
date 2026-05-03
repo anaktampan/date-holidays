@@ -11,6 +11,8 @@ holidays:
     dayoff: sunday
     _days: ES
     days:
+      easter -3:
+        _name: easter -3
       05-30:
         name:
           es: Día de Canarias
@@ -23,6 +25,9 @@ holidays:
       substitutes 08-15 if Sunday then next Monday:
         substitute: true
         _name: 08-15
+      substitutes 11-01 if sunday then next monday:
+        substitute: true
+        _name: 11-01
     regions:
       EH:
         names:

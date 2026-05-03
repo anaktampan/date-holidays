@@ -22,7 +22,7 @@
     "start": "2020-03-18T23:00:00.000Z",
     "end": "2020-03-19T23:00:00.000Z",
     "name": "San José",
-    "type": "observance",
+    "type": "public",
     "rule": "03-19",
     "_weekday": "Thu"
   },
@@ -95,7 +95,6 @@
     "end": "2020-07-25T22:00:00.000Z",
     "name": "Santiago Apóstol",
     "type": "public",
-    "note": "regional",
     "rule": "07-25",
     "_weekday": "Sat"
   },
@@ -127,16 +126,6 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2020-11-02 00:00:00",
-    "start": "2020-11-01T23:00:00.000Z",
-    "end": "2020-11-02T23:00:00.000Z",
-    "name": "Todos los Santos (día sustituto)",
-    "type": "observance",
-    "substitute": true,
-    "rule": "substitutes 11-01 if sunday then next monday",
-    "_weekday": "Mon"
-  },
-  {
     "date": "2020-12-06 00:00:00",
     "start": "2020-12-05T23:00:00.000Z",
     "end": "2020-12-06T23:00:00.000Z",
@@ -144,16 +133,6 @@
     "type": "public",
     "rule": "12-06",
     "_weekday": "Sun"
-  },
-  {
-    "date": "2020-12-07 00:00:00",
-    "start": "2020-12-06T23:00:00.000Z",
-    "end": "2020-12-07T23:00:00.000Z",
-    "name": "Día de la Constitución Española (día sustituto)",
-    "type": "observance",
-    "substitute": true,
-    "rule": "substitutes 12-06 if sunday then next monday",
-    "_weekday": "Mon"
   },
   {
     "date": "2020-12-08 00:00:00",

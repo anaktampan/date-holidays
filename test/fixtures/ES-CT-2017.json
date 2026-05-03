@@ -100,15 +100,6 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2017-06-05 00:00:00",
-    "start": "2017-06-04T22:00:00.000Z",
-    "end": "2017-06-05T22:00:00.000Z",
-    "name": "Lunes de Pentecostés",
-    "type": "public",
-    "rule": "easter 50",
-    "_weekday": "Mon"
-  },
-  {
     "date": "2017-06-24 00:00:00",
     "start": "2017-06-23T22:00:00.000Z",
     "end": "2017-06-24T22:00:00.000Z",
@@ -116,16 +107,6 @@
     "type": "public",
     "rule": "06-24",
     "_weekday": "Sat"
-  },
-  {
-    "date": "2017-07-25 00:00:00",
-    "start": "2017-07-24T22:00:00.000Z",
-    "end": "2017-07-25T22:00:00.000Z",
-    "name": "Santiago Apostol",
-    "type": "observance",
-    "note": "regional",
-    "rule": "07-25",
-    "_weekday": "Tue"
   },
   {
     "date": "2017-08-15 00:00:00",
@@ -143,15 +124,6 @@
     "name": "Dia de Cataluña",
     "type": "public",
     "rule": "09-11",
-    "_weekday": "Mon"
-  },
-  {
-    "date": "2017-09-25 00:00:00",
-    "start": "2017-09-24T22:00:00.000Z",
-    "end": "2017-09-25T22:00:00.000Z",
-    "name": "Mare de Déu de la Mercè",
-    "type": "public",
-    "rule": "09-24 if sunday then next monday",
     "_weekday": "Mon"
   },
   {
@@ -204,7 +176,7 @@
     "start": "2017-12-25T23:00:00.000Z",
     "end": "2017-12-26T23:00:00.000Z",
     "name": "San Esteban",
-    "type": "observance",
+    "type": "public",
     "rule": "12-26",
     "_weekday": "Tue"
   }

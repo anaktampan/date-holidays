@@ -1,10 +1,15 @@
 holidays:
   # @attrib https://es.m.wikipedia.org/wiki/Calendario_laboral
-  # @source https://www.boe.es/boe/dias/2018/10/20/pdfs/BOE-A-2018-14369.pdf
-  # @source https://www.boe.es/boe/dias/2019/10/11/pdfs/BOE-A-2019-14552.pdf
-  # @source https://www.boe.es/boe/dias/2020/11/02/pdfs/BOE-A-2020-13343.pdf
-  # @source https://www.boe.es/boe/dias/2021/10/21/pdfs/BOE-A-2021-17113.pdf
+  # @source https://www.boe.es/boe/dias/2018/10/20/pdfs/BOE-A-2018-14369.pdf (2019)
+  # @source https://www.boe.es/boe/dias/2019/10/11/pdfs/BOE-A-2019-14552.pdf (2020)
+  # @source https://www.boe.es/boe/dias/2020/11/02/pdfs/BOE-A-2020-13343.pdf (2021)
+  # @source https://www.boe.es/boe/dias/2021/10/21/pdfs/BOE-A-2021-17113.pdf (2022)
+  # @source https://www.boe.es/boe/dias/2022/10/14/pdfs/BOE-A-2022-16755.pdf (2023)
+  # @source https://www.boe.es/boe/dias/2023/10/27/pdfs/BOE-A-2023-22014.pdf (2024)
+  # @source https://www.boe.es/boe/dias/2024/10/18/pdfs/BOE-A-2024-21316.pdf (2025)
+  # @source https://www.boe.es/boe/dias/2025/10/28/pdfs/BOE-A-2025-21667.pdf (2026)
   # @source https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17113
+  # @source https://www.boe.es/buscar/act.php?id=BOE-A-1983-20906#art45
   # buscar: "la relación de fiestas laborales para el año 20xx"
   ES:
     names:
@@ -33,8 +38,6 @@ holidays:
       03-19:
         _name: 03-19
         type: observance
-      easter -3:
-        _name: easter -3
       easter -2:
         _name: easter -2
       easter:
@@ -48,11 +51,6 @@ holidays:
       easter 49:
         _name: easter 49
         type: observance
-      07-25:
-        name:
-          es: Santiago Apostol
-        type: observance
-        note: regional
       08-15:
         _name: 08-15
       10-12:
@@ -65,16 +63,7 @@ holidays:
           es: Fiesta Nacional de España
       11-01:
         _name: 11-01
-      substitutes 11-01 if sunday then next monday:
-        substitute: true
-        type: observance
-        _name: 11-01
       12-06:
-        name:
-          es: Día de la Constitución Española
-      substitutes 12-06 if sunday then next monday:
-        type: observance
-        substitute: true
         name:
           es: Día de la Constitución Española
       12-08:
@@ -107,9 +96,18 @@ holidays:
             _name: 08-15
           easter -3:
             _name: easter -3
+          substitutes 11-01 if sunday then next monday:
+            substitute: true
+            _name: 11-01
+          substitutes 12-06 if sunday then next monday:
+            substitute: true
+            name:
+              es: Día de la Constitución Española
       AR:
         name: Aragón
         days:
+          easter -3:
+            _name: easter -3
           04-23:
             name:
               es: Día de Aragón
@@ -123,9 +121,18 @@ holidays:
           substitutes 08-15 if Sunday then next Monday:
             substitute: true
             _name: 08-15
+          substitutes 11-01 if sunday then next monday:
+            substitute: true
+            _name: 11-01
+          substitutes 12-06 if sunday then next monday:
+            substitute: true
+            name:
+              es: Día de la Constitución Española
       AS:
         name: Asturias
         days:
+          easter -3:
+            _name: easter -3
           substitutes 05-01 if Sunday then next Monday:
             substitute: true
             _name: 05-01
@@ -137,20 +144,33 @@ holidays:
           substitutes 09-08 if Sunday then next Monday:
             substitute: true
             name: Día de Asturias
+          substitutes 11-01 if sunday then next monday:
+            substitute: true
+            _name: 11-01
+          substitutes 12-06 if sunday then next monday:
+            substitute: true
+            name:
+              es: Día de la Constitución Española
       CB:
         name: Cantabria
         days:
+          easter -3:
+            _name: easter -3
           06-28:
-            name: Día de las Instituciones de Cantabria
-          substitutes 06-28 if Sunday then next Monday:
             name: Día de las Instituciones de Cantabria
           09-15:
             name: La Bien Aparecida
           substitutes 09-15 if Sunday then next Monday:
             name: La Bien Aparecida
+          substitutes 12-06 if sunday then next monday:
+            substitute: true
+            name:
+              es: Día de la Constitución Española
       CE:
         name: Ciudad de Ceuta
         days:
+          easter -3:
+            _name: easter -3
           08-05:
             name: Nuestra Señora de África
           substitutes 08-05 if Sunday then next Monday:
@@ -168,6 +188,8 @@ holidays:
           es: Castilla y León
           en: Castile and León
         days:
+          easter -3:
+            _name: easter -3
           04-23:
             name: Fiesta de Castilla y León
           substitutes 04-23 if Sunday then next Monday:
@@ -179,16 +201,25 @@ holidays:
           substitutes 08-15 if Sunday then next Monday:
             substitute: true
             _name: 08-15
+          substitutes 11-01 if sunday then next monday:
+            substitute: true
+            _name: 11-01
+          substitutes 12-06 if sunday then next monday:
+            substitute: true
+            name:
+              es: Día de la Constitución Española
       CM:
         name: Castile-La Mancha
         days:
+          easter -3:
+            _name: easter -3
           05-31 since 2020:
-            name: Día de Castilla-La Mancha
-          substitutes 05-31 if Sunday then next Monday since 2020:
-            substitute: true
             name: Día de Castilla-La Mancha
           easter 60:
             _name: easter 60
+          substitutes 11-01 if sunday then next monday:
+            substitute: true
+            _name: 11-01
       CN:
         names:
           es: Islas Canarias
@@ -267,22 +298,28 @@ holidays:
             type: observance
           easter 1:
             _name: easter 1
-          easter 50:
-            _name: easter 50
           substitutes 05-01 if Saturday, Sunday then next Monday:
             substitute: true
             _name: 05-01
-          09-24 if sunday then next monday:
-            name:
-              es: Mare de Déu de la Mercè
           12-26:
             name:
               ca: Sant Esteve
               es: San Esteban
-            type: observance
+        regions:
+          B:
+            names:
+              ca: Barcelona
+              es: Barcelona
+            days:
+              09-24:
+                name:
+                  ca: Mare de Déu de la Mercè
+                  es: Nuestra Señora de la Merced
       EX:
         name: Extremadura
         days:
+          easter -3:
+            _name: easter -3
           substitutes 05-01 if Sunday then next Monday:
             substitute: true
             _name: 05-01
@@ -291,18 +328,23 @@ holidays:
           substitutes 09-08 if Sunday then next Monday:
             substitute: true
             name: Día de Extremadura
+          substitutes 11-01 if sunday then next monday:
+            substitute: true
+            _name: 11-01
+          substitutes 12-06 if sunday then next monday:
+            substitute: true
+            name:
+              es: Día de la Constitución Española
       GA:
         name: Galicia
         days:
+          03-19:
+            _name: 03-19
+          easter -3:
+            _name: easter -3
           05-17:
             name: Día de las Letras Gallegas
-          substitutes 05-17 if Sunday then next Monday:
-            substitute: true
-            name: Día de las Letras Gallegas
           07-25:
-            name: Día Nacional de Galicia
-          substitutes 07-25 if Sunday then next Monday:
-            substitute: true
             name: Día Nacional de Galicia
       IB:
         names:
@@ -316,6 +358,8 @@ holidays:
             substitute: true
             name:
               es: Día de les Illes Balears
+          easter -3:
+            _name: easter -3
           easter 1:
             _name: easter 1
           12-26:
@@ -325,12 +369,22 @@ holidays:
       MC:
         name: Murcia Region
         days:
+          03-19:
+            _name: 03-19
+          easter -3:
+            _name: easter -3
           substitutes 05-01 if Sunday then next Monday:
             substitute: true
             _name: 05-01
+          substitutes 12-06 if sunday then next monday:
+            substitute: true
+            name:
+              es: Día de la Constitución Española
       MD:
         name: Comunidad de Madrid
         days:
+          easter -3:
+            _name: easter -3
           05-02 if Sunday then next Monday:
             name:
               es: Día de la Comunidad de Madrid
@@ -342,53 +396,75 @@ holidays:
             name:
               es: San Isidro Labrador
             type: observance
-          07-25:
-            name: Santiago Apóstol
-          substitutes 07-25 if Sunday then next Monday:
-            substitute: true
-            name: Santiago Apóstol
           11-09 if sunday then next monday:
             name:
               es: Nuestra Señora de la Almudena
             type: observance
+          substitutes 11-01 if sunday then next monday:
+            substitute: true
+            _name: 11-01
+          substitutes 12-06 if sunday then next monday:
+            substitute: true
+            name:
+              es: Día de la Constitución Española
       ML:
         name: Ciudad de Melilla
         days:
+          easter -3:
+            _name: easter -3
           1 Shawwal:
             _name: 1 Shawwal
           10 Dhu al-Hijjah:
             _name: 10 Dhu al-Hijjah
+          substitutes 12-06 if sunday then next monday:
+            substitute: true
+            name:
+              es: Día de la Constitución Española
       NC:
         names:
           es: Comunidad Foral de Navarra
           en: Navarra Chartered Community
         days:
+          03-19:
+            _name: 03-19
+          easter -3:
+            _name: easter -3
           easter 1:
             _name: easter 1
-          07-25:
-            name: Santiago Apóstol
-          substitutes 07-25 if Sunday then next Monday:
+          substitutes 11-01 if sunday then next monday:
             substitute: true
-            name: Santiago Apóstol
+            _name: 11-01
+          # Lunes siguiente al Día de la Constitución Española is not observed
+          substitutes 12-06 if sunday then next monday: false
       PV:
         names:
           es: País Vasco
           en: Basque Country
         days:
+          03-19:
+            _name: 03-19
+          easter -3:
+            _name: easter -3
           easter 1:
             _name: easter 1
           07-25:
-            name: Santiago Apóstol
-          substitutes 07-25 if Sunday then next Monday:
-            substitute: true
             name: Santiago Apóstol
           "2022-09-06":
             name: V Centenario Vuelta al Mundo
       RI:
         name: La Rioja
         days:
+          easter -3:
+            _name: easter -3
           easter 1:
             _name: easter 1
+          06-09:
+            name:
+              es: Día de La Rioja
+          substitutes 12-06 if sunday then next monday:
+            substitute: true
+            name:
+              es: Día de la Constitución Española
       VC:
         names:
           es: Comunitat Valenciana
@@ -398,3 +474,7 @@ holidays:
             _name: 03-19
           easter 1:
             _name: easter 1
+          06-24:
+            name:
+              es: San Juan
+              ca: Sant Joan

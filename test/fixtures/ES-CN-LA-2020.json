@@ -90,16 +90,6 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2020-07-25 00:00:00",
-    "start": "2020-07-24T23:00:00.000Z",
-    "end": "2020-07-25T23:00:00.000Z",
-    "name": "Santiago Apostol",
-    "type": "observance",
-    "note": "regional",
-    "rule": "07-25",
-    "_weekday": "Sat"
-  },
-  {
     "date": "2020-08-15 00:00:00",
     "start": "2020-08-14T23:00:00.000Z",
     "end": "2020-08-15T23:00:00.000Z",
@@ -140,7 +130,7 @@
     "start": "2020-11-02T00:00:00.000Z",
     "end": "2020-11-03T00:00:00.000Z",
     "name": "Todos los Santos (día sustituto)",
-    "type": "observance",
+    "type": "public",
     "substitute": true,
     "rule": "substitutes 11-01 if sunday then next monday",
     "_weekday": "Mon"
@@ -153,16 +143,6 @@
     "type": "public",
     "rule": "12-06",
     "_weekday": "Sun"
-  },
-  {
-    "date": "2020-12-07 00:00:00",
-    "start": "2020-12-07T00:00:00.000Z",
-    "end": "2020-12-08T00:00:00.000Z",
-    "name": "Día de la Constitución Española (día sustituto)",
-    "type": "observance",
-    "substitute": true,
-    "rule": "substitutes 12-06 if sunday then next monday",
-    "_weekday": "Mon"
   },
   {
     "date": "2020-12-08 00:00:00",

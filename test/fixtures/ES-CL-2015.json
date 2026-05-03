@@ -90,16 +90,6 @@
     "_weekday": "Sun"
   },
   {
-    "date": "2015-07-25 00:00:00",
-    "start": "2015-07-24T22:00:00.000Z",
-    "end": "2015-07-25T22:00:00.000Z",
-    "name": "Santiago Apostol",
-    "type": "observance",
-    "note": "regional",
-    "rule": "07-25",
-    "_weekday": "Sat"
-  },
-  {
     "date": "2015-08-15 00:00:00",
     "start": "2015-08-14T22:00:00.000Z",
     "end": "2015-08-15T22:00:00.000Z",
@@ -131,7 +121,7 @@
     "start": "2015-11-01T23:00:00.000Z",
     "end": "2015-11-02T23:00:00.000Z",
     "name": "Todos los Santos (día sustituto)",
-    "type": "observance",
+    "type": "public",
     "substitute": true,
     "rule": "substitutes 11-01 if sunday then next monday",
     "_weekday": "Mon"
@@ -150,7 +140,7 @@
     "start": "2015-12-06T23:00:00.000Z",
     "end": "2015-12-07T23:00:00.000Z",
     "name": "Día de la Constitución Española (día sustituto)",
-    "type": "observance",
+    "type": "public",
     "substitute": true,
     "rule": "substitutes 12-06 if sunday then next monday",
     "_weekday": "Mon"
