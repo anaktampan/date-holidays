@@ -31,39 +31,31 @@ holidays:
         _name: easter
         type: observance
       easter 1:
+        _name: easter 1
         name:
-          fr: Lundi de Pâques
           nl: Paasmaandag
-          de: Ostermontag
-          en: Easter Monday
       05-01:
         _name: 05-01
       2nd sunday in May:
         _name: Mothers Day
         type: observance
       easter 39:
+        _name: easter 39
         name:
           nl: Hemelvaartsdag
-          fr: Ascension
-          de: Christi Himmelfahrt
-          en: Ascension Day
       easter 49:
         _name: easter 49
         type: observance
       easter 50:
+        _name: easter 50
         name:
-          fr: Lundi de Pentecôte
           nl: Pinkstermaandag
-          de: Pfingstmontag
-          en: Whit Monday
       07-21:
         _name: National Holiday
       08-15:
+        _name: 08-15
         name:
-          fr: Assomption
           nl: Tenhemelopneming
-          de: Mariä Himmelfahrt
-          en: Assumption Day
       11-01:
         _name: 11-01
       11-02:
@@ -71,14 +63,14 @@ holidays:
         type: observance
       11-11:
         name:
-          de: Waffenstillstand
           fr: Armistice
           nl: Wapenstilstand
+          de: Waffenstillstand
           en: Armistice Day
       11-15:
         name:
-          nl: Koningsdag
           fr: Fête du Roi
+          nl: Koningsdag
           de: Festtag des Königs
           en: King's Feast
         type: observance
@@ -96,8 +88,9 @@ holidays:
         days:
           05-08:
             name:
-              nl: Feest van de Iris
               fr: Fête de l'Iris
+              nl: Feest van de Iris
+              de: Iris Festival
               en: Iris Festival
             type: observance
       DE:
@@ -107,9 +100,9 @@ holidays:
         days:
           11-15:
             name:
-              de: Tag der Deutschsprachigen Gemeinschaft
               fr: Jour de la Communauté Germanophone
               nl: Feestdag van de Duitstalige Gemeenschap
+              de: Tag der Deutschsprachigen Gemeinschaft
               en: Day of the German-speaking Community
             type: observance
       VLG:
@@ -119,9 +112,9 @@ holidays:
         days:
           07-11:
             name:
-              de: Feiertag der Flämischen Gemeinschaft
               fr: Fête de la Communauté flamande
               nl: Feestdag van de Vlaamse Gemeenschap
+              de: Feiertag der Flämischen Gemeinschaft
               en: Day of the Flemish Community
             type: observance
           11-02:
@@ -130,8 +123,8 @@ holidays:
             note: day-off for employees of the flemish government
           11-15:
             name:
-              nl: Koningsdag
               fr: Fête du Roi
+              nl: Koningsdag
               de: Festtag des Königs
               en: King's Feast
             type: observance
@@ -158,9 +151,9 @@ holidays:
         days:
           09-27:
             name:
-              de: Tag der Französischsprachigen Gemeinschaft
               fr: La fête de la communauté française
               nl: Feestdag van de Franse Gemeenschap
+              de: Tag der Französischsprachigen Gemeinschaft
               en: French Community Holiday
             type: observance
         # regions:
