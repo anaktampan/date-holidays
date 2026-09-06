@@ -1,5 +1,14 @@
 # Changelog
 
+## [3.36.1](https://github.com/commenthol/date-holidays/compare/3.36.0...3.36.1) (2026-09-06)
+
+- docs: update country list [3477a3d7](https://github.com/commenthol/date-holidays/commit/3477a3d7fd1b18740406a4256250dfcba330cb48)
+- fix(BE): avoid duplicate naming of holiday names [8e588732](https://github.com/commenthol/date-holidays/commit/8e5887326d328744465f05500791e3b156ca61c1)
+- fix(BE): correct fr/de names of the Day of the Flemish Community [b8670489](https://github.com/commenthol/date-holidays/commit/b8670489c219d056d94955ffacb6eedce387bcfb)
+- fix(BE): add English names for all Belgian holidays [1bb9245f](https://github.com/commenthol/date-holidays/commit/1bb9245fc70dcb9700d0cd70e281e1d8e65335a9)
+- fix(AL): correct Albanian holiday substitutes [e773401a](https://github.com/commenthol/date-holidays/commit/e773401a85b6166dbc6272a6051ed86e69cb06ec)
+- fix(AD): correct holiday dates and types [41d02e86](https://github.com/commenthol/date-holidays/commit/41d02e86aa809c6cc8796a430aa179b68321623d)
+
 ## [3.36.0](https://github.com/commenthol/date-holidays/compare/3.35.0...3.36.0) (2026-08-25)
 
 - docs: update license attributions and county info [2430f847](https://github.com/commenthol/date-holidays/commit/2430f847bbde8aa8563f8beb02aea661b3453360)
